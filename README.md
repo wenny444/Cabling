@@ -27,25 +27,12 @@ Pada kabel **Straight-Through**, urutan kabel yang digunakan di kedua ujung kabe
 
 | Pin | Warna Kabel          |
 |-----|----------------------|
-| 1   | Putih-Hijau          |
-| 2   | Hijau                |
-| 3   | Putih-Oranye         |
+| 1   | Putih-Oranye         |
+| 2   | Oranye               |
+| 3   | Putih-Hijau          |
 | 4   | Biru                 |
 | 5   | Putih-Biru           |
-| 6   | Oranye               |
-| 7   | Putih-Coklat         |
-| 8   | Coklat               |
-
-### Urutan T568A:
-
-| Pin | Warna Kabel          |
-|-----|----------------------|
-| 1   | Putih-Hijau          |
-| 2   | Hijau                |
-| 3   | Putih-Oranye         |
-| 4   | Biru                 |
-| 5   | Putih-Biru           |
-| 6   | Oranye               |
+| 6   | Hijau                |
 | 7   | Putih-Coklat         |
 | 8   | Coklat               |
 
@@ -55,7 +42,7 @@ Pada kabel **Straight-Through**, urutan kabel yang digunakan di kedua ujung kabe
 3. Crimping konektor di kedua ujung.
 Pada kabel **Crossover**, urutan kabel pada satu ujung menggunakan standar **T568A** dan ujung lainnya menggunakan standar **T568B**. Berikut adalah urutan kabel untuk masing-masing ujung:
 
-### Ujung 1 (T568A):
+**Ujung 1 (T568A):**
 | Pin | Warna Kabel          |
 |-----|----------------------|
 | 1   | Putih-Hijau          |
@@ -67,7 +54,7 @@ Pada kabel **Crossover**, urutan kabel pada satu ujung menggunakan standar **T56
 | 7   | Putih-Coklat         |
 | 8   | Coklat               |
 
-### Ujung 2 (T568B):
+**Ujung 2 (T568B):**
 | Pin | Warna Kabel          |
 |-----|----------------------|
 | 1   | Putih-Oranye         |
