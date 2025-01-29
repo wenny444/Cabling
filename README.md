@@ -12,8 +12,15 @@ Kelas   : TK4.C
 ## 3. Langkah-langkah Pembuatan Kabel Straight-Through:
 1. Potong kabel UTP dengan panjang yang diinginkan.
 2. Kupas kabel sepanjang 2-3 cm di kedua ujung.
+   ![image alt](https://github.com/wenny444/Cabling/blob/e6236165a583704f4c57715e0ff5fc936ae91e16/pemotongan.jpg)
 3. Pisahkan warna kabel, hingga menjadi 8 bagian.
+   ![image alt](https://github.com/wenny444/Cabling/blob/e6236165a583704f4c57715e0ff5fc936ae91e16/kupas.jpg)
 4. Urutkan kabel sesuai urutan warna **T568B** atau **T568A**.
+   ![image alt](https://github.com/wenny444/Cabling/blob/e6236165a583704f4c57715e0ff5fc936ae91e16/susunan.jpg)
+5. Masukkan kabel pada RJ45 Connector dengan urutan yang benar.
+   ![image alt](https://github.com/wenny444/Cabling/blob/e6236165a583704f4c57715e0ff5fc936ae91e16/masukkan%20kabel.jpg)
+6. Rekatkan kabel menggunakan crimping tool.
+   ![image alt](https://github.com/wenny444/Cabling/blob/e6236165a583704f4c57715e0ff5fc936ae91e16/merekatkan%20kabel.jpg)
 Berikut adalah urutan kabel untuk kabel UTP jenis **Straight-Through** dan **Crossover**.
 Urutan Kabel untuk Kabel Straight-Through
 Pada kabel **Straight-Through**, urutan kabel yang digunakan di kedua ujung kabel adalah sama. Berikut adalah urutan warna kabel berdasarkan standar **T568B**:
@@ -85,3 +92,5 @@ Setelah kabel selesai dibuat, uji kabel menggunakan kabel tester:
 4. Sambungkan kedua ujung kabel ke kabel tester.
 5. Pastikan indikator pada tester menunjukkan koneksi yang benar.
 6. Perbaiki jika ada kabel yang tidak terhubung atau urutannya salah.
+7. Jika sudah kabel siap digunakan.
+   ![image alt](https://github.com/wenny444/Cabling/blob/e6236165a583704f4c57715e0ff5fc936ae91e16/sudah%20jadi.jpg)
