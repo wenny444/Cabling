@@ -9,7 +9,7 @@ Kelas   : TK4.C
 - RJ45 Connector
 - Crimping tool
 - Kabel tester
-## 3. Langkah-langkah Pembuatan Kabel Straight-Through:
+## 2. Langkah-langkah Pembuatan Kabel Straight-Through:
 1. Potong kabel UTP dengan panjang yang diinginkan.
 2. Kupas kabel sepanjang 2-3 cm di kedua ujung.
    ![image alt](https://github.com/wenny444/Cabling/blob/e6236165a583704f4c57715e0ff5fc936ae91e16/pemotongan.jpg)
@@ -36,7 +36,7 @@ Pada kabel **Straight-Through**, urutan kabel yang digunakan di kedua ujung kabe
 | 7   | Putih-Coklat         |
 | 8   | Coklat               |
 
-## 4. Langkah-langkah Pembuatan Kabel Crossover:
+## 3. Langkah-langkah Pembuatan Kabel Crossover:
 1. Potong dan kupas kabel seperti pada kabel straight-through.
 2. Untuk ujung pertama, gunakan urutan warna **T568A**, untuk ujung kedua gunakan **T568B**.
 3. Crimping konektor di kedua ujung.
