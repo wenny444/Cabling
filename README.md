@@ -77,6 +77,7 @@ Setelah kabel selesai dibuat, uji kabel menggunakan kabel tester:
 2. Crimping konektor dengan crimping tool.
 3. Ulangi untuk ujung kabel lainnya.
 4. Sambungkan kedua ujung kabel ke kabel tester.
+   ![image alt](https://github.com/wenny444/Cabling/blob/65ccb903ce31bab03e5de8a327f8407b2af14e69/kabel%20tester.jpg)
 5. Pastikan indikator pada tester menunjukkan koneksi yang benar.
 6. Perbaiki jika ada kabel yang tidak terhubung atau urutannya salah.
 7. Jika sudah kabel siap digunakan.
